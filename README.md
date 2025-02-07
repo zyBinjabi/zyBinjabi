@@ -10,8 +10,8 @@
   Open-source projects, innovative web applications, and tools that streamline enterprise workflows using SAP technologies or modern JavaScript frameworks.
 
 - 📫 **How to reach me**:  
-  - Email: [your-email@example.com](mailto:your-email@example.com)  
-  - LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
+  - Email: [your-email@example.com](zy.binjabi.work@gmail.com)  
+  - LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/zaid-binjabi-a528b2193/))  
   - GitHub: [@zyBinjabi](https://github.com/zyBinjabi)
 
 - 😄 **Pronouns**: He/Him  
@@ -45,12 +45,6 @@ I’m a motivated and detail-oriented **Computer Engineering graduate** with a p
 ### 🌟 Fun Fact
 I believe in the power of automation and simplicity. Whether it’s building tools to reduce manual effort or exploring AI-driven solutions, I’m always eager to find smarter ways to solve problems.
 
----
-
-### 🔗 Links
-- [GitHub Profile](https://github.com/zyBinjabi)  
-- [LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- [Portfolio Website](https://yourportfolio.com) _(optional)_  
 
 ---
 
